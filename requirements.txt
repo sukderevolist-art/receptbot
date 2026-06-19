@@ -1,0 +1,6 @@
+aiogram
+python-dotenv
+requests
+beautifulsoup4
+APScheduler
+truststore
